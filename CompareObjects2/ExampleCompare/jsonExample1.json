@@ -1,0 +1,991 @@
+﻿{
+  "internalId": {
+    "timestamp": 1649679895,
+    "machine": 14357986,
+    "pid": -31418,
+    "increment": 16584501,
+    "creationTime": "2022-04-11T12:24:55Z"
+  },
+  "projectId": "5b8330ec3b624398a67e0beb66827284",
+  "status": 1,
+  "isVerified": false,
+  "isActive": false,
+  "course": "",
+  "titleImages": [
+    {
+      "fileId": "4c3f8dd26dc04bc68ba858806ea48454_orig",
+      "containerId": "5b8330ec3b624398a67e0beb66827284",
+      "isDeleted": false,
+      "isNew": false,
+      "inProgress": false,
+      "type": "projectimages",
+      "url": "projectimages/39/5b8330ec3b624398a67e0beb66827284/4c3f8dd26dc04bc68ba858806ea48454_orig.jpg",
+      "size": "original",
+      "width": 1722,
+      "height": 2431,
+      "ratio": 0.7083504730563555,
+      "orientaion": false,
+      "crop": null,
+      "localization": "global"
+    },
+    {
+      "fileId": "74e7be34bcbd4732ac51aafe3d7e27c8240x320",
+      "containerId": "5b8330ec3b624398a67e0beb66827284",
+      "isDeleted": false,
+      "isNew": false,
+      "inProgress": false,
+      "type": "projectimages",
+      "url": "projectimages/39/5b8330ec3b624398a67e0beb66827284/74e7be34bcbd4732ac51aafe3d7e27c8240x320.jpg",
+      "size": "qvga",
+      "width": 0,
+      "height": 0,
+      "ratio": 0,
+      "orientaion": false,
+      "crop": null,
+      "localization": "global"
+    },
+    {
+      "fileId": "8f02ef66d8f74678a65b7d3715220457480x640",
+      "containerId": "5b8330ec3b624398a67e0beb66827284",
+      "isDeleted": false,
+      "isNew": false,
+      "inProgress": false,
+      "type": "projectimages",
+      "url": "projectimages/39/5b8330ec3b624398a67e0beb66827284/8f02ef66d8f74678a65b7d3715220457480x640.jpg",
+      "size": "vga",
+      "width": 0,
+      "height": 0,
+      "ratio": 0,
+      "orientaion": false,
+      "crop": null,
+      "localization": "global"
+    },
+    {
+      "fileId": "f3e921d709284aeba59a8ff5a65e3c9e720x1280",
+      "containerId": "5b8330ec3b624398a67e0beb66827284",
+      "isDeleted": false,
+      "isNew": false,
+      "inProgress": false,
+      "type": "projectimages",
+      "url": "projectimages/39/5b8330ec3b624398a67e0beb66827284/f3e921d709284aeba59a8ff5a65e3c9e720x1280.jpg",
+      "size": "hd",
+      "width": 0,
+      "height": 0,
+      "ratio": 0,
+      "orientaion": false,
+      "crop": null,
+      "localization": "global"
+    },
+    {
+      "fileId": "f0b6fccd60ec4c6cac12be4f6efc6c8f1080x1920",
+      "containerId": "5b8330ec3b624398a67e0beb66827284",
+      "isDeleted": false,
+      "isNew": false,
+      "inProgress": false,
+      "type": "projectimages",
+      "url": "projectimages/39/5b8330ec3b624398a67e0beb66827284/f0b6fccd60ec4c6cac12be4f6efc6c8f1080x1920.jpg",
+      "size": "fhd",
+      "width": 0,
+      "height": 0,
+      "ratio": 0,
+      "orientaion": false,
+      "crop": null,
+      "localization": "global"
+    },
+    {
+      "fileId": "78b34cc1f19e45fbbee9aa5e1b2097381152x2048",
+      "containerId": "5b8330ec3b624398a67e0beb66827284",
+      "isDeleted": false,
+      "isNew": false,
+      "inProgress": false,
+      "type": "projectimages",
+      "url": "projectimages/39/5b8330ec3b624398a67e0beb66827284/78b34cc1f19e45fbbee9aa5e1b2097381152x2048.jpg",
+      "size": "2k",
+      "width": 0,
+      "height": 0,
+      "ratio": 0,
+      "orientaion": false,
+      "crop": null,
+      "localization": "global"
+    }
+  ],
+  "files": [],
+  "title": [
+    {
+      "lang": "Ru",
+      "name": "Копия как метафора"
+    },
+    {
+      "lang": "En",
+      "name": "Копия как метафора"
+    }
+  ],
+  "about": [],
+  "created": "2022-04-11T12:24:55.562Z",
+  "published": "2022-04-11T14:22:09.292Z",
+  "edited": "2022-04-11T14:36:52.354Z",
+  "year": 0,
+  "pointName": "",
+  "teamId": "f5f0adbb092f4f568b1f03ce62b1e3a1",
+  "pointId": "",
+  "seasonId": "",
+  "competitionId": null,
+  "longreadId": "5b8330ec3b624398a67e0beb66827284",
+  "projectIdExternalSystem": "",
+  "creatorId": "5bf93120f90044a680c0989b8906dafa",
+  "authorIds": [
+    "5bf93120f90044a680c0989b8906dafa"
+  ],
+  "curatorsIdList": [],
+  "curatorId": null,
+  "categoryID": "2687fadaf0e048ed9925e56052f3010e",
+  "cardId": "5b8330ec3b624398a67e0beb66827284",
+  "tagsID": [
+    "5f54078fe908423593a15dc929e08b25",
+    "ba95114db42749a39b57a3c7e192c372",
+    "6m0caf276eb6422abffcc292412156a673"
+  ],
+  "masterTagID": "",
+  "postIds": [],
+  "approvals": [],
+  "projectProducer": 0,
+  "service": "geography",
+  "additionalInfo": {
+    "color": "#ffffff"
+  },
+  "contexts": null,
+  "services": [
+    "deziiign"
+  ],
+  "team": {
+    "internalId": {
+      "timestamp": 1617788086,
+      "machine": 5533891,
+      "pid": 9980,
+      "increment": 14097306,
+      "creationTime": "2021-04-07T09:34:46Z"
+    },
+    "teamId": "f5f0adbb092f4f568b1f03ce62b1e3a1",
+    "name": [
+      {
+        "lang": "En",
+        "name": "HSE Art and Design School"
+      }
+    ],
+    "pointId": "2a0883257fc24e3b990c6f6196f5d07a",
+    "point": {
+      "internalId": {
+        "timestamp": 0,
+        "machine": 0,
+        "pid": 0,
+        "increment": 0,
+        "creationTime": "1970-01-01T00:00:00Z"
+      },
+      "pointId": null,
+      "countryId": "",
+      "name": [],
+      "city": [],
+      "country": [],
+      "longitude": 0,
+      "latitude": 0
+    },
+    "created": "0001-01-01T00:00:00",
+    "edited": "0001-01-01T00:00:00"
+  },
+  "season": {
+    "internalId": {
+      "timestamp": 0,
+      "machine": 0,
+      "pid": 0,
+      "increment": 0,
+      "creationTime": "1970-01-01T00:00:00Z"
+    },
+    "seasonId": null,
+    "name": [
+      {
+        "lang": "ru",
+        "name": ""
+      },
+      {
+        "lang": "en",
+        "name": ""
+      }
+    ],
+    "description": [
+      {
+        "lang": "ru",
+        "name": ""
+      },
+      {
+        "lang": "en",
+        "name": ""
+      }
+    ],
+    "about": [
+      {
+        "lang": "ru",
+        "name": ""
+      },
+      {
+        "lang": "en",
+        "name": ""
+      }
+    ],
+    "titleImage": null,
+    "startDateTime": "0001-01-01T00:00:00",
+    "endDateTime": "0001-01-01T00:00:00",
+    "seasonStages": [
+      {
+        "seasonStageEnum": 0,
+        "stageName": [
+          {
+            "lang": "ru",
+            "name": ""
+          },
+          {
+            "lang": "en",
+            "name": ""
+          }
+        ],
+        "startDateTime": "0001-01-01T00:00:00",
+        "endDateTime": "0001-01-01T00:00:00",
+        "competitionStatus": 0,
+        "isActive": false,
+        "userCanApplyProject": false,
+        "userCanEditProject": false,
+        "userCanVote": false,
+        "juryCanVote": false,
+        "datetimeString": [
+          {
+            "lang": "ru",
+            "name": ""
+          },
+          {
+            "lang": "en",
+            "name": ""
+          }
+        ]
+      },
+      {
+        "seasonStageEnum": 0,
+        "stageName": [
+          {
+            "lang": "ru",
+            "name": ""
+          },
+          {
+            "lang": "en",
+            "name": ""
+          }
+        ],
+        "startDateTime": "0001-01-01T00:00:00",
+        "endDateTime": "0001-01-01T00:00:00",
+        "competitionStatus": 0,
+        "isActive": false,
+        "userCanApplyProject": false,
+        "userCanEditProject": false,
+        "userCanVote": false,
+        "juryCanVote": false,
+        "datetimeString": [
+          {
+            "lang": "ru",
+            "name": ""
+          },
+          {
+            "lang": "en",
+            "name": ""
+          }
+        ]
+      },
+      {
+        "seasonStageEnum": 0,
+        "stageName": [
+          {
+            "lang": "ru",
+            "name": ""
+          },
+          {
+            "lang": "en",
+            "name": ""
+          }
+        ],
+        "startDateTime": "0001-01-01T00:00:00",
+        "endDateTime": "0001-01-01T00:00:00",
+        "competitionStatus": 0,
+        "isActive": false,
+        "userCanApplyProject": false,
+        "userCanEditProject": false,
+        "userCanVote": false,
+        "juryCanVote": false,
+        "datetimeString": [
+          {
+            "lang": "ru",
+            "name": ""
+          },
+          {
+            "lang": "en",
+            "name": ""
+          }
+        ]
+      },
+      {
+        "seasonStageEnum": 0,
+        "stageName": [
+          {
+            "lang": "ru",
+            "name": ""
+          },
+          {
+            "lang": "en",
+            "name": ""
+          }
+        ],
+        "startDateTime": "0001-01-01T00:00:00",
+        "endDateTime": "0001-01-01T00:00:00",
+        "competitionStatus": 0,
+        "isActive": false,
+        "userCanApplyProject": false,
+        "userCanEditProject": false,
+        "userCanVote": false,
+        "juryCanVote": false,
+        "datetimeString": [
+          {
+            "lang": "ru",
+            "name": ""
+          },
+          {
+            "lang": "en",
+            "name": ""
+          }
+        ]
+      }
+    ]
+  },
+  "point": {
+    "internalId": {
+      "timestamp": 0,
+      "machine": 0,
+      "pid": 0,
+      "increment": 0,
+      "creationTime": "1970-01-01T00:00:00Z"
+    },
+    "pointId": null,
+    "countryId": "",
+    "name": [],
+    "city": [],
+    "country": [],
+    "longitude": 0,
+    "latitude": 0
+  },
+  "authors": [
+    {
+      "internalId": {
+        "timestamp": 1644589911,
+        "machine": 4214567,
+        "pid": -3101,
+        "increment": 2329062,
+        "creationTime": "2022-02-11T14:31:51Z"
+      },
+      "designerId": "5bf93120f90044a680c0989b8906dafa",
+      "profileId": null,
+      "context": null,
+      "contextEntityId": null,
+      "email": "btbalaganova@edu.hse.ru",
+      "phone": null,
+      "accountId": "5bf93120f90044a680c0989b8906dafa",
+      "globalType": "HseDesignStudent",
+      "avatar": null,
+      "about": [
+        {
+          "lang": "ru",
+          "name": null
+        }
+      ],
+      "nameCaсhe": null,
+      "nickName": "robot",
+      "created": "2022-02-11T14:31:51.841Z",
+      "edited": "0001-01-01T00:00:00Z",
+      "name": [
+        {
+          "lang": "ru",
+          "name": "Бальжима"
+        }
+      ],
+      "surName": [
+        {
+          "lang": "ru",
+          "name": "Балаганова"
+        }
+      ],
+      "socialNetworks": [],
+      "education": [],
+      "workPlaces": [],
+      "biography": [
+        {
+          "lang": "ru",
+          "name": ""
+        },
+        {
+          "lang": "en",
+          "name": ""
+        }
+      ],
+      "company": [
+        {
+          "lang": "ru",
+          "name": ""
+        },
+        {
+          "lang": "en",
+          "name": ""
+        }
+      ],
+      "position": [
+        {
+          "lang": "ru",
+          "name": ""
+        },
+        {
+          "lang": "en",
+          "name": ""
+        }
+      ],
+      "country": {
+        "name": "",
+        "twoLetterCode": "",
+        "threeLetterCode": "",
+        "numericCode": ""
+      },
+      "rolesList": [],
+      "competitionID": null,
+      "juryCompetitionID": null,
+      "tagListId": [],
+      "tags": []
+    }
+  ],
+  "posts": [],
+  "curators": null,
+  "categoryName": [
+    {
+      "lang": "en",
+      "name": "Design"
+    },
+    {
+      "lang": "ru",
+      "name": "Дизайн"
+    }
+  ],
+  "category": {
+    "internalId": {
+      "timestamp": 0,
+      "machine": 0,
+      "pid": 0,
+      "increment": 0,
+      "creationTime": "1970-01-01T00:00:00Z"
+    },
+    "tagId": "450b65c195424392bafd2d1f6ffbf8ed",
+    "referenceId": null,
+    "tagRefIdList": null,
+    "groupId": null,
+    "groupType": "Dafes",
+    "userIdList": [],
+    "allowedGlobalTypes": [],
+    "claimUserId": null,
+    "type": 0,
+    "status": 0,
+    "role": 0,
+    "owner": "geograffee",
+    "additionalInfo": {},
+    "title": "Design",
+    "entityTypes": [
+      "project_geograffee_category"
+    ],
+    "additionalTagIds": [
+      "524e392106024b578dc2e1db98528f5a",
+      "f0c677c220784d638a210e4aeb1ce92d",
+      "9237e556118a4585955a4d3342196a7d",
+      "52644f0d0d9d4a2ea47192e70310ec12",
+      "c3f4b004ac49483485c3a9de74a49929",
+      "917a4684ad9541a0a80b8d1b84a8f8a8",
+      "1d3bdfe35b3d439cac17cfb502592560",
+      "6c73446bb25d4b19a31825b23b7bc0ae",
+      "1ea5957f54994f3b85450baf6837c134",
+      "d323f504af624a61a745d6b605eb6ee1",
+      "549901e2e9f24e38a0b66bcbf7903c88",
+      "3c66d1f9823e42aaa522f8b6f7e6879c",
+      "f9eb38f6eed4494db19df6fc353b57cc",
+      "7ba968681f4f499487c605853ec6c364",
+      "fa79ce7d6b5348faaad4695c53362aae",
+      "8f0cb0b9d4684731ae4c71949a728420",
+      "217832a4767940a5b7cb26e9c41b8c82",
+      "413e10ac185c48a48ddd30c44f0336e7",
+      "16ebabc5f3b14fc1b6ebdbe2e4c2b2af",
+      "ebe67af45caf497e9fe1bf4b5886bb79",
+      "ca97b342721e476aa6719b9e04919eac",
+      "7c05ad293b674d54b67f7793937aa4e5",
+      "4a05d61f53a94e94abf6800bc7eecb86",
+      "4182495396a643008313bddfdbc95a32",
+      "8cc0cdf2521f4054badfe75730d07491"
+    ],
+    "additionalTags": [],
+    "name": [
+      {
+        "lang": "en",
+        "name": "Design"
+      },
+      {
+        "lang": "ru",
+        "name": "Дизайн"
+      }
+    ],
+    "description": [],
+    "additionalName": [],
+    "dateCreate": "2021-06-15T12:28:26.047Z",
+    "color": null,
+    "isTranslate": false,
+    "isMedia": false,
+    "level": 1,
+    "position": 1,
+    "context": null,
+    "contextEntityId": [
+      "artz",
+      "hsedesign",
+      "education",
+      "design",
+      "art",
+      "fashion",
+      "events",
+      "space",
+      "places",
+      "books",
+      "places",
+      "urban",
+      "hselab",
+      "competition"
+    ],
+    "countWorks": 0,
+    "noCountWorks": false,
+    "services": [
+      "geograffee",
+      "mediiia",
+      "deziiign",
+      "gallllery"
+    ],
+    "replaceTags": [
+      "2687fadaf0e048ed9925e56052f3010e"
+    ]
+  },
+  "tags": [
+    {
+      "internalId": {
+        "timestamp": 0,
+        "machine": 0,
+        "pid": 0,
+        "increment": 0,
+        "creationTime": "1970-01-01T00:00:00Z"
+      },
+      "tagId": "5f54078fe908423593a15dc929e08b25",
+      "referenceId": "0d12d91266ec4b27a9323977e66510c8",
+      "tagRefIdList": [
+        "0d12d91266ec4b27a9323977e66510c8"
+      ],
+      "groupId": "450b65c195424392bafd2d1f6ffbf8ed",
+      "groupType": null,
+      "userIdList": [],
+      "allowedGlobalTypes": [],
+      "claimUserId": null,
+      "type": 0,
+      "status": 0,
+      "role": 0,
+      "owner": "geograffee",
+      "additionalInfo": {},
+      "title": "magazine",
+      "entityTypes": [
+        "design",
+        "project_geograffee",
+        "gallllery_collection_tag",
+        "media_tag"
+      ],
+      "additionalTagIds": [],
+      "additionalTags": [],
+      "name": [
+        {
+          "lang": "En",
+          "name": "magazine"
+        },
+        {
+          "lang": "Ru",
+          "name": "журнал"
+        }
+      ],
+      "description": [],
+      "additionalName": [],
+      "dateCreate": "2021-11-30T12:03:43.424Z",
+      "color": null,
+      "isTranslate": true,
+      "isMedia": true,
+      "level": 2,
+      "position": 0,
+      "context": "art",
+      "contextEntityId": [
+        "art",
+        "design",
+        "events",
+        "fashion",
+        "space",
+        "education",
+        "urban",
+        "places",
+        "deziiign",
+        "hselab",
+        "artz"
+      ],
+      "countWorks": 0,
+      "noCountWorks": false,
+      "services": [
+        "gallllery",
+        "deziiign",
+        "geograffee",
+        "artz"
+      ],
+      "replaceTags": []
+    },
+    {
+      "internalId": {
+        "timestamp": 0,
+        "machine": 0,
+        "pid": 0,
+        "increment": 0,
+        "creationTime": "1970-01-01T00:00:00Z"
+      },
+      "tagId": "ba95114db42749a39b57a3c7e192c372",
+      "referenceId": null,
+      "tagRefIdList": null,
+      "groupId": "450b65c195424392bafd2d1f6ffbf8ed",
+      "groupType": null,
+      "userIdList": [],
+      "allowedGlobalTypes": [],
+      "claimUserId": null,
+      "type": 0,
+      "status": 0,
+      "role": 0,
+      "owner": null,
+      "additionalInfo": {},
+      "title": "book design",
+      "entityTypes": [
+        "project_geograffee",
+        "Dafes"
+      ],
+      "additionalTagIds": [],
+      "additionalTags": [],
+      "name": [
+        {
+          "lang": "en",
+          "name": "book design"
+        },
+        {
+          "lang": "ru",
+          "name": "дизайн книги"
+        }
+      ],
+      "description": [],
+      "additionalName": [],
+      "dateCreate": "2022-04-05T15:48:59.041Z",
+      "color": null,
+      "isTranslate": true,
+      "isMedia": false,
+      "level": 1,
+      "position": 0,
+      "context": null,
+      "contextEntityId": [],
+      "countWorks": 0,
+      "noCountWorks": true,
+      "services": [
+        "deziiign"
+      ],
+      "replaceTags": []
+    },
+    {
+      "internalId": {
+        "timestamp": 0,
+        "machine": 0,
+        "pid": 0,
+        "increment": 0,
+        "creationTime": "1970-01-01T00:00:00Z"
+      },
+      "tagId": "6m0caf276eb6422abffcc292412156a673",
+      "referenceId": null,
+      "tagRefIdList": [
+        ""
+      ],
+      "groupId": "9fc9a8896f9445e4919b25fec026c471",
+      "groupType": null,
+      "userIdList": [],
+      "allowedGlobalTypes": [],
+      "claimUserId": null,
+      "type": 0,
+      "status": 0,
+      "role": 0,
+      "owner": "geograffee",
+      "additionalInfo": {},
+      "title": "book",
+      "entityTypes": [
+        "project_geograffee",
+        "gallllery_collection_tag",
+        "media_tag"
+      ],
+      "additionalTagIds": [],
+      "additionalTags": [],
+      "name": [
+        {
+          "lang": "En",
+          "name": "book"
+        },
+        {
+          "lang": "Ru",
+          "name": "книга"
+        }
+      ],
+      "description": [],
+      "additionalName": [],
+      "dateCreate": "2022-04-05T16:25:47.621Z",
+      "color": null,
+      "isTranslate": true,
+      "isMedia": true,
+      "level": 2,
+      "position": 0,
+      "context": "art",
+      "contextEntityId": [
+        "art",
+        "design",
+        "events",
+        "fashion",
+        "space",
+        "education",
+        "urban",
+        "places",
+        "deziiign",
+        "hselab",
+        "artz"
+      ],
+      "countWorks": 0,
+      "noCountWorks": false,
+      "services": [
+        "deziiign",
+        "geograffee",
+        "gallllery",
+        "artz"
+      ],
+      "replaceTags": []
+    }
+  ],
+  "masterTag": {
+    "internalId": {
+      "timestamp": 0,
+      "machine": 0,
+      "pid": 0,
+      "increment": 0,
+      "creationTime": "1970-01-01T00:00:00Z"
+    },
+    "tagId": null,
+    "referenceId": null,
+    "tagRefIdList": null,
+    "groupId": null,
+    "groupType": null,
+    "userIdList": [],
+    "allowedGlobalTypes": [],
+    "claimUserId": null,
+    "type": 0,
+    "status": 0,
+    "role": 0,
+    "owner": null,
+    "additionalInfo": {},
+    "title": null,
+    "entityTypes": [],
+    "additionalTagIds": [],
+    "additionalTags": [],
+    "name": [],
+    "description": [],
+    "additionalName": [],
+    "dateCreate": "0001-01-01T00:00:00",
+    "color": null,
+    "isTranslate": true,
+    "isMedia": false,
+    "level": 1,
+    "position": 0,
+    "context": null,
+    "contextEntityId": [],
+    "countWorks": 0,
+    "noCountWorks": false,
+    "services": [],
+    "replaceTags": []
+  },
+  "tagsName": [
+    [
+      {
+        "lang": "En",
+        "name": "magazine"
+      },
+      {
+        "lang": "Ru",
+        "name": "журнал"
+      }
+    ],
+    [
+      {
+        "lang": "en",
+        "name": "book design"
+      },
+      {
+        "lang": "ru",
+        "name": "дизайн книги"
+      }
+    ],
+    [
+      {
+        "lang": "En",
+        "name": "book"
+      },
+      {
+        "lang": "Ru",
+        "name": "книга"
+      }
+    ]
+  ],
+  "masterTagName": [],
+  "longread": {
+    "internalId": {
+      "timestamp": 0,
+      "machine": 0,
+      "pid": 0,
+      "increment": 0,
+      "creationTime": "1970-01-01T00:00:00Z"
+    },
+    "longreadId": "",
+    "relatedEntityId": null,
+    "userId": "",
+    "authorIds": [],
+    "curatorIds": [],
+    "bookId": "",
+    "areaId": "",
+    "countryId": "",
+    "museumId": "",
+    "providerId": "",
+    "providerIds": [],
+    "contexts": [],
+    "typeLongread": "",
+    "styleLongread": "",
+    "name": [],
+    "description": [],
+    "attachments": [],
+    "referenceLongreads": [],
+    "status": 0,
+    "options": [],
+    "additionalInfo": [],
+    "tagIds": [],
+    "titleImages": [],
+    "idUsersLiked": [],
+    "dateCreated": "0001-01-01T00:00:00",
+    "dateChanged": "0001-01-01T00:00:00",
+    "datePublished": "0001-01-01T00:00:00",
+    "isOutputMain": false,
+    "position": 0,
+    "uploadFileData": null,
+    "country": null,
+    "artist": null,
+    "museum": null,
+    "authorLongread": null,
+    "authors": null,
+    "curators": null,
+    "tags": []
+  },
+  "quCount": 0,
+  "isQu": false,
+  "isBookmark": false,
+  "userVotes": null,
+  "juryVotes": null,
+  "creator": {
+    "internalId": {
+      "timestamp": 1644589911,
+      "machine": 4214567,
+      "pid": -3101,
+      "increment": 2329062,
+      "creationTime": "2022-02-11T14:31:51Z"
+    },
+    "designerId": "5bf93120f90044a680c0989b8906dafa",
+    "profileId": null,
+    "context": null,
+    "contextEntityId": null,
+    "email": "btbalaganova@edu.hse.ru",
+    "phone": null,
+    "accountId": "5bf93120f90044a680c0989b8906dafa",
+    "globalType": "HseDesignStudent",
+    "avatar": null,
+    "about": [
+      {
+        "lang": "ru",
+        "name": null
+      }
+    ],
+    "nameCaсhe": null,
+    "nickName": "robot",
+    "created": "2022-02-11T14:31:51.841Z",
+    "edited": "0001-01-01T00:00:00Z",
+    "name": [
+      {
+        "lang": "ru",
+        "name": "Бальжима"
+      }
+    ],
+    "surName": [
+      {
+        "lang": "ru",
+        "name": "Балаганова"
+      }
+    ],
+    "socialNetworks": [],
+    "education": [],
+    "workPlaces": [],
+    "biography": [
+      {
+        "lang": "ru",
+        "name": ""
+      },
+      {
+        "lang": "en",
+        "name": ""
+      }
+    ],
+    "company": [
+      {
+        "lang": "ru",
+        "name": ""
+      },
+      {
+        "lang": "en",
+        "name": ""
+      }
+    ],
+    "position": [
+      {
+        "lang": "ru",
+        "name": ""
+      },
+      {
+        "lang": "en",
+        "name": ""
+      }
+    ],
+    "country": {
+      "name": "",
+      "twoLetterCode": "",
+      "threeLetterCode": "",
+      "numericCode": ""
+    },
+    "rolesList": [],
+    "competitionID": null,
+    "juryCompetitionID": null,
+    "tagListId": [],
+    "tags": []
+  }
+}

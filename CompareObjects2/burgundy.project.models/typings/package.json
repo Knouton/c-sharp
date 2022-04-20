@@ -1,0 +1,18 @@
+{
+  "name": "@brg/api-project-types",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "0.0.1",
+  "description": "",
+  "files": [
+    "src"
+  ],
+  "author": "Alexander Popov",
+  "license": "ISC",
+  "devDependencies": {
+  },
+  "peerDependencies": {},
+  "dependencies": {
+  }
+}

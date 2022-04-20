@@ -1,0 +1,1115 @@
+﻿{
+  "internalId": {
+    "timestamp": 1649431297,
+    "machine": 14357986,
+    "pid": -31418,
+    "increment": 16584476,
+    "creationTime": "2022-04-08T15:21:37Z"
+  },
+  "projectId": "0430e76bc1314ba5be3945cefbff85e8",
+  "status": 1,
+  "isVerified": false,
+  "isActive": false,
+  "course": "",
+  "titleImages": [
+    {
+      "fileId": "9dfcef0f8cdb436eb80ccaf97ce8f824_orig",
+      "containerId": "0430e76bc1314ba5be3945cefbff85e8",
+      "isDeleted": false,
+      "isNew": false,
+      "inProgress": false,
+      "type": "projectimages",
+      "url": "projectimages/39/0430e76bc1314ba5be3945cefbff85e8/9dfcef0f8cdb436eb80ccaf97ce8f824_orig.jpg",
+      "size": "original",
+      "width": 2480,
+      "height": 3500,
+      "ratio": 0.7085714285714285,
+      "orientaion": false,
+      "crop": null,
+      "localization": "global"
+    },
+    {
+      "fileId": "1044559ea8594a84b50f87e2d8c2d028240x320",
+      "containerId": "0430e76bc1314ba5be3945cefbff85e8",
+      "isDeleted": false,
+      "isNew": false,
+      "inProgress": false,
+      "type": "projectimages",
+      "url": "projectimages/39/0430e76bc1314ba5be3945cefbff85e8/1044559ea8594a84b50f87e2d8c2d028240x320.jpg",
+      "size": "qvga",
+      "width": 0,
+      "height": 0,
+      "ratio": 0,
+      "orientaion": false,
+      "crop": null,
+      "localization": "global"
+    },
+    {
+      "fileId": "e2e55be9e74546c1882357e6ad249529480x640",
+      "containerId": "0430e76bc1314ba5be3945cefbff85e8",
+      "isDeleted": false,
+      "isNew": false,
+      "inProgress": false,
+      "type": "projectimages",
+      "url": "projectimages/39/0430e76bc1314ba5be3945cefbff85e8/e2e55be9e74546c1882357e6ad249529480x640.jpg",
+      "size": "vga",
+      "width": 0,
+      "height": 0,
+      "ratio": 0,
+      "orientaion": false,
+      "crop": null,
+      "localization": "global"
+    },
+    {
+      "fileId": "6eb8016dc0ae45b683cd99781af82f42720x1280",
+      "containerId": "0430e76bc1314ba5be3945cefbff85e8",
+      "isDeleted": false,
+      "isNew": false,
+      "inProgress": false,
+      "type": "projectimages",
+      "url": "projectimages/39/0430e76bc1314ba5be3945cefbff85e8/6eb8016dc0ae45b683cd99781af82f42720x1280.jpg",
+      "size": "hd",
+      "width": 0,
+      "height": 0,
+      "ratio": 0,
+      "orientaion": false,
+      "crop": null,
+      "localization": "global"
+    },
+    {
+      "fileId": "4d960c2a572f428cac7b9130df6b18b41080x1920",
+      "containerId": "0430e76bc1314ba5be3945cefbff85e8",
+      "isDeleted": false,
+      "isNew": false,
+      "inProgress": false,
+      "type": "projectimages",
+      "url": "projectimages/39/0430e76bc1314ba5be3945cefbff85e8/4d960c2a572f428cac7b9130df6b18b41080x1920.jpg",
+      "size": "fhd",
+      "width": 0,
+      "height": 0,
+      "ratio": 0,
+      "orientaion": false,
+      "crop": null,
+      "localization": "global"
+    },
+    {
+      "fileId": "bad641d53dc94f519fb3ec072f6ea28a1152x2048",
+      "containerId": "0430e76bc1314ba5be3945cefbff85e8",
+      "isDeleted": false,
+      "isNew": false,
+      "inProgress": false,
+      "type": "projectimages",
+      "url": "projectimages/39/0430e76bc1314ba5be3945cefbff85e8/bad641d53dc94f519fb3ec072f6ea28a1152x2048.jpg",
+      "size": "2k",
+      "width": 0,
+      "height": 0,
+      "ratio": 0,
+      "orientaion": false,
+      "crop": null,
+      "localization": "global"
+    }
+  ],
+  "files": [],
+  "title": [
+    {
+      "lang": "Ru",
+      "name": "Трейлер «Тайна Синто»"
+    },
+    {
+      "lang": "En",
+      "name": "Трейлер «Тайна Синто»"
+    }
+  ],
+  "about": [],
+  "created": "2022-04-08T15:21:37.596Z",
+  "published": "2022-04-11T08:06:51.415Z",
+  "edited": "2022-04-11T08:06:51.416Z",
+  "year": 0,
+  "pointName": "",
+  "teamId": "f5f0adbb092f4f568b1f03ce62b1e3a1",
+  "pointId": "",
+  "seasonId": "",
+  "competitionId": null,
+  "longreadId": "0430e76bc1314ba5be3945cefbff85e8",
+  "projectIdExternalSystem": "",
+  "creatorId": "70dbcf1ef8b24deb9b2231e28f220f36",
+  "authorIds": [
+    "03cf83b981154f37af707eeacacc105d"
+  ],
+  "curatorsIdList": [],
+  "curatorId": null,
+  "categoryID": "d4a9c6ee23c14a159cb8c363423adb2d",
+  "cardId": "0430e76bc1314ba5be3945cefbff85e8",
+  "tagsID": [
+    "d4a9c6ee23c14a159cb8c363423adb2d",
+    "5c06f1d1c13b4ed7a9a6fd3ab9f78cf2",
+    "91c56b063f3e4d39b1b4d3fe569c9887"
+  ],
+  "masterTagID": "",
+  "postIds": [],
+  "approvals": [],
+  "projectProducer": 0,
+  "service": "geography",
+  "additionalInfo": {
+    "color": "#2c1c58"
+  },
+  "contexts": null,
+  "services": [
+    "deziiign"
+  ],
+  "team": {
+    "internalId": {
+      "timestamp": 1617788086,
+      "machine": 5533891,
+      "pid": 9980,
+      "increment": 14097306,
+      "creationTime": "2021-04-07T09:34:46Z"
+    },
+    "teamId": "f5f0adbb092f4f568b1f03ce62b1e3a1",
+    "name": [
+      {
+        "lang": "En",
+        "name": "HSE Art and Design School"
+      }
+    ],
+    "pointId": "2a0883257fc24e3b990c6f6196f5d07a",
+    "point": {
+      "internalId": {
+        "timestamp": 0,
+        "machine": 0,
+        "pid": 0,
+        "increment": 0,
+        "creationTime": "1970-01-01T00:00:00Z"
+      },
+      "pointId": null,
+      "countryId": "",
+      "name": [],
+      "city": [],
+      "country": [],
+      "longitude": 0,
+      "latitude": 0
+    },
+    "created": "0001-01-01T00:00:00",
+    "edited": "0001-01-01T00:00:00"
+  },
+  "season": {
+    "internalId": {
+      "timestamp": 0,
+      "machine": 0,
+      "pid": 0,
+      "increment": 0,
+      "creationTime": "1970-01-01T00:00:00Z"
+    },
+    "seasonId": null,
+    "name": [
+      {
+        "lang": "ru",
+        "name": ""
+      },
+      {
+        "lang": "en",
+        "name": ""
+      }
+    ],
+    "description": [
+      {
+        "lang": "ru",
+        "name": ""
+      },
+      {
+        "lang": "en",
+        "name": ""
+      }
+    ],
+    "about": [
+      {
+        "lang": "ru",
+        "name": ""
+      },
+      {
+        "lang": "en",
+        "name": ""
+      }
+    ],
+    "titleImage": null,
+    "startDateTime": "0001-01-01T00:00:00",
+    "endDateTime": "0001-01-01T00:00:00",
+    "seasonStages": [
+      {
+        "seasonStageEnum": 0,
+        "stageName": [
+          {
+            "lang": "ru",
+            "name": ""
+          },
+          {
+            "lang": "en",
+            "name": ""
+          }
+        ],
+        "startDateTime": "0001-01-01T00:00:00",
+        "endDateTime": "0001-01-01T00:00:00",
+        "competitionStatus": 0,
+        "isActive": false,
+        "userCanApplyProject": false,
+        "userCanEditProject": false,
+        "userCanVote": false,
+        "juryCanVote": false,
+        "datetimeString": [
+          {
+            "lang": "ru",
+            "name": ""
+          },
+          {
+            "lang": "en",
+            "name": ""
+          }
+        ]
+      },
+      {
+        "seasonStageEnum": 0,
+        "stageName": [
+          {
+            "lang": "ru",
+            "name": ""
+          },
+          {
+            "lang": "en",
+            "name": ""
+          }
+        ],
+        "startDateTime": "0001-01-01T00:00:00",
+        "endDateTime": "0001-01-01T00:00:00",
+        "competitionStatus": 0,
+        "isActive": false,
+        "userCanApplyProject": false,
+        "userCanEditProject": false,
+        "userCanVote": false,
+        "juryCanVote": false,
+        "datetimeString": [
+          {
+            "lang": "ru",
+            "name": ""
+          },
+          {
+            "lang": "en",
+            "name": ""
+          }
+        ]
+      },
+      {
+        "seasonStageEnum": 0,
+        "stageName": [
+          {
+            "lang": "ru",
+            "name": ""
+          },
+          {
+            "lang": "en",
+            "name": ""
+          }
+        ],
+        "startDateTime": "0001-01-01T00:00:00",
+        "endDateTime": "0001-01-01T00:00:00",
+        "competitionStatus": 0,
+        "isActive": false,
+        "userCanApplyProject": false,
+        "userCanEditProject": false,
+        "userCanVote": false,
+        "juryCanVote": false,
+        "datetimeString": [
+          {
+            "lang": "ru",
+            "name": ""
+          },
+          {
+            "lang": "en",
+            "name": ""
+          }
+        ]
+      },
+      {
+        "seasonStageEnum": 0,
+        "stageName": [
+          {
+            "lang": "ru",
+            "name": ""
+          },
+          {
+            "lang": "en",
+            "name": ""
+          }
+        ],
+        "startDateTime": "0001-01-01T00:00:00",
+        "endDateTime": "0001-01-01T00:00:00",
+        "competitionStatus": 0,
+        "isActive": false,
+        "userCanApplyProject": false,
+        "userCanEditProject": false,
+        "userCanVote": false,
+        "juryCanVote": false,
+        "datetimeString": [
+          {
+            "lang": "ru",
+            "name": ""
+          },
+          {
+            "lang": "en",
+            "name": ""
+          }
+        ]
+      }
+    ]
+  },
+  "point": {
+    "internalId": {
+      "timestamp": 0,
+      "machine": 0,
+      "pid": 0,
+      "increment": 0,
+      "creationTime": "1970-01-01T00:00:00Z"
+    },
+    "pointId": null,
+    "countryId": "",
+    "name": [],
+    "city": [],
+    "country": [],
+    "longitude": 0,
+    "latitude": 0
+  },
+  "authors": [
+    {
+      "internalId": {
+        "timestamp": 1644589933,
+        "machine": 4214567,
+        "pid": -3101,
+        "increment": 2332244,
+        "creationTime": "2022-02-11T14:32:13Z"
+      },
+      "designerId": "03cf83b981154f37af707eeacacc105d",
+      "profileId": null,
+      "context": null,
+      "contextEntityId": null,
+      "email": "nsmalysheva@edu.hse.ru",
+      "phone": null,
+      "accountId": "03cf83b981154f37af707eeacacc105d",
+      "globalType": "HseDesignStudent",
+      "avatar": null,
+      "about": [
+        {
+          "lang": "ru",
+          "name": null
+        }
+      ],
+      "nameCaсhe": null,
+      "nickName": "robot",
+      "created": "2022-02-11T14:32:13.77Z",
+      "edited": "0001-01-01T00:00:00Z",
+      "name": [
+        {
+          "lang": "ru",
+          "name": "Надежда"
+        }
+      ],
+      "surName": [
+        {
+          "lang": "ru",
+          "name": "Малышева"
+        }
+      ],
+      "socialNetworks": [],
+      "education": [],
+      "workPlaces": [],
+      "biography": [
+        {
+          "lang": "ru",
+          "name": ""
+        },
+        {
+          "lang": "en",
+          "name": ""
+        }
+      ],
+      "company": [
+        {
+          "lang": "ru",
+          "name": ""
+        },
+        {
+          "lang": "en",
+          "name": ""
+        }
+      ],
+      "position": [
+        {
+          "lang": "ru",
+          "name": ""
+        },
+        {
+          "lang": "en",
+          "name": ""
+        }
+      ],
+      "country": {
+        "name": "",
+        "twoLetterCode": "",
+        "threeLetterCode": "",
+        "numericCode": ""
+      },
+      "rolesList": [],
+      "competitionID": null,
+      "juryCompetitionID": null,
+      "tagListId": [],
+      "tags": []
+    }
+  ],
+  "posts": [],
+  "curators": null,
+  "categoryName": [
+    {
+      "lang": "en",
+      "name": "Design"
+    },
+    {
+      "lang": "ru",
+      "name": "Дизайн"
+    }
+  ],
+  "category": {
+    "internalId": {
+      "timestamp": 0,
+      "machine": 0,
+      "pid": 0,
+      "increment": 0,
+      "creationTime": "1970-01-01T00:00:00Z"
+    },
+    "tagId": "450b65c195424392bafd2d1f6ffbf8ed",
+    "referenceId": null,
+    "tagRefIdList": null,
+    "groupId": null,
+    "groupType": "Dafes",
+    "userIdList": [],
+    "allowedGlobalTypes": [],
+    "claimUserId": null,
+    "type": 0,
+    "status": 0,
+    "role": 0,
+    "owner": "geograffee",
+    "additionalInfo": {},
+    "title": "Design",
+    "entityTypes": [
+      "project_geograffee_category"
+    ],
+    "additionalTagIds": [
+      "524e392106024b578dc2e1db98528f5a",
+      "f0c677c220784d638a210e4aeb1ce92d",
+      "9237e556118a4585955a4d3342196a7d",
+      "52644f0d0d9d4a2ea47192e70310ec12",
+      "c3f4b004ac49483485c3a9de74a49929",
+      "917a4684ad9541a0a80b8d1b84a8f8a8",
+      "1d3bdfe35b3d439cac17cfb502592560",
+      "6c73446bb25d4b19a31825b23b7bc0ae",
+      "1ea5957f54994f3b85450baf6837c134",
+      "d323f504af624a61a745d6b605eb6ee1",
+      "549901e2e9f24e38a0b66bcbf7903c88",
+      "3c66d1f9823e42aaa522f8b6f7e6879c",
+      "f9eb38f6eed4494db19df6fc353b57cc",
+      "7ba968681f4f499487c605853ec6c364",
+      "fa79ce7d6b5348faaad4695c53362aae",
+      "8f0cb0b9d4684731ae4c71949a728420",
+      "217832a4767940a5b7cb26e9c41b8c82",
+      "413e10ac185c48a48ddd30c44f0336e7",
+      "16ebabc5f3b14fc1b6ebdbe2e4c2b2af",
+      "ebe67af45caf497e9fe1bf4b5886bb79",
+      "ca97b342721e476aa6719b9e04919eac",
+      "7c05ad293b674d54b67f7793937aa4e5",
+      "4a05d61f53a94e94abf6800bc7eecb86",
+      "4182495396a643008313bddfdbc95a32",
+      "8cc0cdf2521f4054badfe75730d07491"
+    ],
+    "additionalTags": [],
+    "name": [
+      {
+        "lang": "en",
+        "name": "Design"
+      },
+      {
+        "lang": "ru",
+        "name": "Дизайн"
+      }
+    ],
+    "description": [],
+    "additionalName": [],
+    "dateCreate": "2021-06-15T12:28:26.047Z",
+    "color": null,
+    "isTranslate": false,
+    "isMedia": false,
+    "level": 1,
+    "position": 1,
+    "context": null,
+    "contextEntityId": [
+      "artz",
+      "hsedesign",
+      "education",
+      "design",
+      "art",
+      "fashion",
+      "events",
+      "space",
+      "places",
+      "books",
+      "places",
+      "urban",
+      "hselab",
+      "competition"
+    ],
+    "countWorks": 0,
+    "noCountWorks": false,
+    "services": [
+      "geograffee",
+      "mediiia",
+      "deziiign",
+      "gallllery"
+    ],
+    "replaceTags": [
+      "d4a9c6ee23c14a159cb8c363423adb2d"
+    ]
+  },
+  "tags": [
+    {
+      "internalId": {
+        "timestamp": 0,
+        "machine": 0,
+        "pid": 0,
+        "increment": 0,
+        "creationTime": "1970-01-01T00:00:00Z"
+      },
+      "tagId": "91c56b063f3e4d39b1b4d3fe569c9887",
+      "referenceId": "800135c9495641d994b18344753c8f61",
+      "tagRefIdList": [
+        "800135c9495641d994b18344753c8f61"
+      ],
+      "groupId": "450b65c195424392bafd2d1f6ffbf8ed",
+      "groupType": null,
+      "userIdList": [],
+      "allowedGlobalTypes": [],
+      "claimUserId": null,
+      "type": 0,
+      "status": 0,
+      "role": 0,
+      "owner": "geograffee",
+      "additionalInfo": {},
+      "title": "3d animation",
+      "entityTypes": [
+        "design",
+        "project_geograffee",
+        "gallllery_collection_tag",
+        "media_tag"
+      ],
+      "additionalTagIds": [],
+      "additionalTags": [],
+      "name": [
+        {
+          "lang": "En",
+          "name": "3d animation"
+        },
+        {
+          "lang": "Ru",
+          "name": "3d анимация"
+        }
+      ],
+      "description": [],
+      "additionalName": [],
+      "dateCreate": "2021-11-12T11:23:11.811Z",
+      "color": null,
+      "isTranslate": true,
+      "isMedia": true,
+      "level": 2,
+      "position": 0,
+      "context": "art",
+      "contextEntityId": [
+        "art",
+        "design",
+        "events",
+        "fashion",
+        "space",
+        "education",
+        "urban",
+        "places",
+        "deziiign",
+        "hselab",
+        "artz"
+      ],
+      "countWorks": 0,
+      "noCountWorks": false,
+      "services": [
+        "gallllery",
+        "deziiign",
+        "geograffee",
+        "artz"
+      ],
+      "replaceTags": []
+    },
+    {
+      "internalId": {
+        "timestamp": 0,
+        "machine": 0,
+        "pid": 0,
+        "increment": 0,
+        "creationTime": "1970-01-01T00:00:00Z"
+      },
+      "tagId": "450b65c195424392bafd2d1f6ffbf8ed",
+      "referenceId": null,
+      "tagRefIdList": null,
+      "groupId": null,
+      "groupType": "Dafes",
+      "userIdList": [],
+      "allowedGlobalTypes": [],
+      "claimUserId": null,
+      "type": 0,
+      "status": 0,
+      "role": 0,
+      "owner": "geograffee",
+      "additionalInfo": {},
+      "title": "Design",
+      "entityTypes": [
+        "project_geograffee_category"
+      ],
+      "additionalTagIds": [
+        "524e392106024b578dc2e1db98528f5a",
+        "f0c677c220784d638a210e4aeb1ce92d",
+        "9237e556118a4585955a4d3342196a7d",
+        "52644f0d0d9d4a2ea47192e70310ec12",
+        "c3f4b004ac49483485c3a9de74a49929",
+        "917a4684ad9541a0a80b8d1b84a8f8a8",
+        "1d3bdfe35b3d439cac17cfb502592560",
+        "6c73446bb25d4b19a31825b23b7bc0ae",
+        "1ea5957f54994f3b85450baf6837c134",
+        "d323f504af624a61a745d6b605eb6ee1",
+        "549901e2e9f24e38a0b66bcbf7903c88",
+        "3c66d1f9823e42aaa522f8b6f7e6879c",
+        "f9eb38f6eed4494db19df6fc353b57cc",
+        "7ba968681f4f499487c605853ec6c364",
+        "fa79ce7d6b5348faaad4695c53362aae",
+        "8f0cb0b9d4684731ae4c71949a728420",
+        "217832a4767940a5b7cb26e9c41b8c82",
+        "413e10ac185c48a48ddd30c44f0336e7",
+        "16ebabc5f3b14fc1b6ebdbe2e4c2b2af",
+        "ebe67af45caf497e9fe1bf4b5886bb79",
+        "ca97b342721e476aa6719b9e04919eac",
+        "7c05ad293b674d54b67f7793937aa4e5",
+        "4a05d61f53a94e94abf6800bc7eecb86",
+        "4182495396a643008313bddfdbc95a32",
+        "8cc0cdf2521f4054badfe75730d07491"
+      ],
+      "additionalTags": [],
+      "name": [
+        {
+          "lang": "en",
+          "name": "Design"
+        },
+        {
+          "lang": "ru",
+          "name": "Дизайн"
+        }
+      ],
+      "description": [],
+      "additionalName": [],
+      "dateCreate": "2021-06-15T12:28:26.047Z",
+      "color": null,
+      "isTranslate": false,
+      "isMedia": false,
+      "level": 1,
+      "position": 1,
+      "context": null,
+      "contextEntityId": [
+        "artz",
+        "hsedesign",
+        "education",
+        "design",
+        "art",
+        "fashion",
+        "events",
+        "space",
+        "places",
+        "books",
+        "places",
+        "urban",
+        "hselab",
+        "competition"
+      ],
+      "countWorks": 0,
+      "noCountWorks": false,
+      "services": [
+        "geograffee",
+        "mediiia",
+        "deziiign",
+        "gallllery"
+      ],
+      "replaceTags": [
+        "d4a9c6ee23c14a159cb8c363423adb2d"
+      ]
+    },
+    {
+      "internalId": {
+        "timestamp": 0,
+        "machine": 0,
+        "pid": 0,
+        "increment": 0,
+        "creationTime": "1970-01-01T00:00:00Z"
+      },
+      "tagId": "5c06f1d1c13b4ed7a9a6fd3ab9f78cf2",
+      "referenceId": "",
+      "tagRefIdList": [
+        ""
+      ],
+      "groupId": "3baf5ce908d84cc2a8ac6c2fcc5a9c45",
+      "groupType": null,
+      "userIdList": [],
+      "allowedGlobalTypes": [],
+      "claimUserId": null,
+      "type": 0,
+      "status": 0,
+      "role": 0,
+      "owner": "geograffee",
+      "additionalInfo": {},
+      "title": "animation",
+      "entityTypes": [
+        "art",
+        "project_geograffee",
+        "gallllery_collection_tag",
+        "media_tag"
+      ],
+      "additionalTagIds": [],
+      "additionalTags": [],
+      "name": [
+        {
+          "lang": "En",
+          "name": "animation"
+        },
+        {
+          "lang": "Ru",
+          "name": "анимация"
+        }
+      ],
+      "description": [],
+      "additionalName": [],
+      "dateCreate": "2021-10-14T14:07:21.872Z",
+      "color": null,
+      "isTranslate": true,
+      "isMedia": true,
+      "level": 2,
+      "position": 9,
+      "context": "art",
+      "contextEntityId": [
+        "art",
+        "design",
+        "events",
+        "fashion",
+        "space",
+        "education",
+        "urban",
+        "places",
+        "deziiign",
+        "hselab",
+        "artz"
+      ],
+      "countWorks": 0,
+      "noCountWorks": false,
+      "services": [
+        "gallllery",
+        "deziiign",
+        "geograffee",
+        "artz"
+      ],
+      "replaceTags": []
+    }
+  ],
+  "masterTag": {
+    "internalId": {
+      "timestamp": 0,
+      "machine": 0,
+      "pid": 0,
+      "increment": 0,
+      "creationTime": "1970-01-01T00:00:00Z"
+    },
+    "tagId": null,
+    "referenceId": null,
+    "tagRefIdList": null,
+    "groupId": null,
+    "groupType": null,
+    "userIdList": [],
+    "allowedGlobalTypes": [],
+    "claimUserId": null,
+    "type": 0,
+    "status": 0,
+    "role": 0,
+    "owner": null,
+    "additionalInfo": {},
+    "title": null,
+    "entityTypes": [],
+    "additionalTagIds": [],
+    "additionalTags": [],
+    "name": [],
+    "description": [],
+    "additionalName": [],
+    "dateCreate": "0001-01-01T00:00:00",
+    "color": null,
+    "isTranslate": true,
+    "isMedia": false,
+    "level": 1,
+    "position": 0,
+    "context": null,
+    "contextEntityId": [],
+    "countWorks": 0,
+    "noCountWorks": false,
+    "services": [],
+    "replaceTags": []
+  },
+  "tagsName": [
+    [
+      {
+        "lang": "En",
+        "name": "3d animation"
+      },
+      {
+        "lang": "Ru",
+        "name": "3d анимация"
+      }
+    ],
+    [
+      {
+        "lang": "en",
+        "name": "Design"
+      },
+      {
+        "lang": "ru",
+        "name": "Дизайн"
+      }
+    ],
+    [
+      {
+        "lang": "En",
+        "name": "animation"
+      },
+      {
+        "lang": "Ru",
+        "name": "анимация"
+      }
+    ]
+  ],
+  "masterTagName": [],
+  "longread": {
+    "internalId": {
+      "timestamp": 0,
+      "machine": 0,
+      "pid": 0,
+      "increment": 0,
+      "creationTime": "1970-01-01T00:00:00Z"
+    },
+    "longreadId": "",
+    "relatedEntityId": null,
+    "userId": "",
+    "authorIds": [],
+    "curatorIds": [],
+    "bookId": "",
+    "areaId": "",
+    "countryId": "",
+    "museumId": "",
+    "providerId": "",
+    "providerIds": [],
+    "contexts": [],
+    "typeLongread": "",
+    "styleLongread": "",
+    "name": [],
+    "description": [],
+    "attachments": [],
+    "referenceLongreads": [],
+    "status": 0,
+    "options": [],
+    "additionalInfo": [],
+    "tagIds": [],
+    "titleImages": [],
+    "idUsersLiked": [],
+    "dateCreated": "0001-01-01T00:00:00",
+    "dateChanged": "0001-01-01T00:00:00",
+    "datePublished": "0001-01-01T00:00:00",
+    "isOutputMain": false,
+    "position": 0,
+    "uploadFileData": null,
+    "country": null,
+    "artist": null,
+    "museum": null,
+    "authorLongread": null,
+    "authors": null,
+    "curators": null,
+    "tags": []
+  },
+  "quCount": 1,
+  "isQu": false,
+  "isBookmark": false,
+  "userVotes": null,
+  "juryVotes": null,
+  "creator": {
+    "internalId": {
+      "timestamp": 1638957974,
+      "machine": 15101971,
+      "pid": 4756,
+      "increment": 1137763,
+      "creationTime": "2021-12-08T10:06:14Z"
+    },
+    "designerId": "70dbcf1ef8b24deb9b2231e28f220f36",
+    "profileId": "70dbcf1ef8b24deb9b2231e28f220f36",
+    "context": "Education",
+    "contextEntityId": "HSE Art and Design School",
+    "email": "nlogutova@hse.ru",
+    "phone": "",
+    "accountId": "70dbcf1ef8b24deb9b2231e28f220f36",
+    "globalType": "Employee",
+    "avatar": [
+      {
+        "fileId": "dba8962a9d56461ba06e4bca9c3af982_orig",
+        "containerId": "70dbcf1ef8b24deb9b2231e28f220f36",
+        "isDeleted": false,
+        "isNew": false,
+        "inProgress": false,
+        "type": "designerimages",
+        "url": "designerimages/2/70dbcf1ef8b24deb9b2231e28f220f36/dba8962a9d56461ba06e4bca9c3af982_orig.jpg",
+        "size": "original",
+        "width": 0,
+        "height": 0,
+        "ratio": 0,
+        "orientaion": false,
+        "crop": null,
+        "localization": "global"
+      },
+      {
+        "fileId": "2905c324310e4803a846d9596998a5ee240x320",
+        "containerId": "70dbcf1ef8b24deb9b2231e28f220f36",
+        "isDeleted": false,
+        "isNew": false,
+        "inProgress": false,
+        "type": "designerimages",
+        "url": "designerimages/2/70dbcf1ef8b24deb9b2231e28f220f36/2905c324310e4803a846d9596998a5ee240x320.jpg",
+        "size": "qvga",
+        "width": 0,
+        "height": 0,
+        "ratio": 0,
+        "orientaion": false,
+        "crop": null,
+        "localization": "global"
+      },
+      {
+        "fileId": "6fd38bf398c44f11b43df00db11f7697720x1280",
+        "containerId": "70dbcf1ef8b24deb9b2231e28f220f36",
+        "isDeleted": false,
+        "isNew": false,
+        "inProgress": false,
+        "type": "designerimages",
+        "url": "designerimages/2/70dbcf1ef8b24deb9b2231e28f220f36/6fd38bf398c44f11b43df00db11f7697720x1280.jpg",
+        "size": "hd",
+        "width": 0,
+        "height": 0,
+        "ratio": 0,
+        "orientaion": false,
+        "crop": null,
+        "localization": "global"
+      },
+      {
+        "fileId": "d7054f311e514223b698a799cc4bf1a4480x640",
+        "containerId": "70dbcf1ef8b24deb9b2231e28f220f36",
+        "isDeleted": false,
+        "isNew": false,
+        "inProgress": false,
+        "type": "designerimages",
+        "url": "designerimages/2/70dbcf1ef8b24deb9b2231e28f220f36/d7054f311e514223b698a799cc4bf1a4480x640.jpg",
+        "size": "vga",
+        "width": 0,
+        "height": 0,
+        "ratio": 0,
+        "orientaion": false,
+        "crop": null,
+        "localization": "global"
+      }
+    ],
+    "about": [
+      {
+        "lang": "ru",
+        "name": null
+      }
+    ],
+    "nameCaсhe": null,
+    "nickName": "robot",
+    "created": "2021-12-08T10:06:14.111Z",
+    "edited": "2022-02-21T12:35:08.814Z",
+    "name": [
+      {
+        "lang": "ru",
+        "name": "Наталья"
+      },
+      {
+        "lang": "en",
+        "name": "Natalya"
+      }
+    ],
+    "surName": [
+      {
+        "lang": "ru",
+        "name": "Логутова"
+      },
+      {
+        "lang": "en",
+        "name": "Logutova"
+      }
+    ],
+    "socialNetworks": [],
+    "education": [],
+    "workPlaces": [],
+    "biography": [
+      {
+        "lang": "ru",
+        "name": ""
+      },
+      {
+        "lang": "en",
+        "name": ""
+      }
+    ],
+    "company": [
+      {
+        "lang": "ru",
+        "name": ""
+      },
+      {
+        "lang": "en",
+        "name": ""
+      }
+    ],
+    "position": [
+      {
+        "lang": "ru",
+        "name": ""
+      },
+      {
+        "lang": "en",
+        "name": ""
+      }
+    ],
+    "country": {
+      "name": "Russian Federation",
+      "twoLetterCode": "RU",
+      "threeLetterCode": "RUS",
+      "numericCode": "643"
+    },
+    "rolesList": [
+      "moder",
+      "EnvironmentDesignTagOwner",
+      "moder",
+      "superModer"
+    ],
+    "competitionID": null,
+    "juryCompetitionID": null,
+    "tagListId": [],
+    "tags": []
+  }
+}
